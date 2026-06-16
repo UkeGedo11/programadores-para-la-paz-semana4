@@ -8,5 +8,5 @@ ampliamente utilizada, existe una gran cantidad de recursos, documentacion y per
 a compartir conocimientos y experiencias. Node.js tambien permite desarrollar aplicaciones rapidas 
 y eficientes para brindar soluciones a diferentes problemas que puedan surgir en la sociedad. 
 Gracias a estas herramientas, mas personas pueden participar en la construccion de proyectos tecnologicos,
- fortalecer sus habilidades y aportar al bienestar, al crecimiento y al desarrollo de sus comunidades de 
- una manera mas accesible y sostenible.
+fortalecer sus habilidades y aportar al bienestar, al crecimiento y al desarrollo de sus comunidades de 
+una manera mas accesible y sostenible.
